@@ -19,6 +19,21 @@ social: false # includes social icons at the bottom of the page
 
 Welcome to my personal site for showcasing different projects and work I've been involved with. I try to keep it somewhat up to date.
 
-I love to engage with fun technical projects, art projects, education, and community building.
+I love to engage with fun technical projects, music and performing, art projects, education, and community building. Take a look at my projects page to see what I've been working on!
 
-Check out the projects page for a mix of artistic and technical endeavors
+<!-- Add your box link with photo and side-by-side text here -->
+<div class="clickable-box" style="border: 2px solid #000; width: 500px; display: flex; align-items: center; padding: 20px; margin: 20px auto;">
+  <a href="/projects/" style="text-decoration: none; color: inherit; display: flex; align-items: center; width: 100%;">
+    <img src="{{ 'assets/img/chip_manifold/img_0098.jpg' | relative_url }}" alt="Project Image" style="width: 30%; height: auto;">
+    <div style="margin-left: 10px; display: flex; flex-direction: column; text-align: left; justify-content: center;">
+      <h2>Projects</h2>
+      <p>Link to a list of technical and artistic projects I've worked on</p>
+    </div>
+  </a>
+</div>
+
+Feel free to email me with thoughts, questions, and ideas.
+
+In the meantime, here's a video of me almost jumping a wake on waterskis:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vtW8IK8OhrQ?si=20MKNpozV0iJmtlr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

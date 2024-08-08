@@ -5,6 +5,7 @@ description: A repository for controls development
 img: assets/img/controls_sandbox/cartpole_dir_col_3.gif
 importance: 1
 category: work
+github: https://github.com/tojomcmo/ctrl_sandbox
 related_publications: false
 ---
 

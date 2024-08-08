@@ -13,6 +13,21 @@
       <meta http-equiv="refresh" content="3; url={{ redirect }}">
     {% endif %}
     {% include head.liquid %}
+    <style>
+      .clickable-box:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+      }
+
+      .clickable-box a {
+        text-decoration: none;
+        color: inherit;
+      }
+
+      .clickable-box a:hover {
+        text-decoration: underline;
+      }
+    </style>
   </head>
 
   <!-- Body -->
