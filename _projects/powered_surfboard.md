@@ -5,7 +5,7 @@ description: A jet-propelled surfboard
 img: assets/img/powered_surfboard/board_cad.png
 importance: 2
 category: fun
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.

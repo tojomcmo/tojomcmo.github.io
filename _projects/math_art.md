@@ -5,7 +5,7 @@ description: Dynamics as art
 img: assets/img/math_art/heatmap_art_11.png
 importance: 3
 category: fun
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.

@@ -5,7 +5,7 @@ description: Tables and whatnot
 img: assets/img/furniture/IMG_2166.jpg
 importance: 3
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.

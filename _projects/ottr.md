@@ -5,7 +5,7 @@ description: Recreating rain on a tin roof
 img: assets/img/ottr/IMG_6897.jpg
 importance: 3
 category: fun
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.

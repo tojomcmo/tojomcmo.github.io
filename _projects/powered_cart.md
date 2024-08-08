@@ -5,7 +5,7 @@ description: Getting up and down the hill
 img: assets/img/powered_cart/IMG_6214.jpg
 importance: 2
 category: fun
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.

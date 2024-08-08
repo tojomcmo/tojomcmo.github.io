@@ -5,7 +5,7 @@ description: Pictures I've taken and like
 img: assets/img/photography/_DSC9103.jpg
 importance: 3
 category: fun
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.

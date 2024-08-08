@@ -5,7 +5,7 @@ description: When epoxy fails...
 img: assets/img/riskboard/IMG_5037.jpg
 importance: 3
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.

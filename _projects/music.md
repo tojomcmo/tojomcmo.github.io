@@ -5,7 +5,7 @@ description: Producing, performing, and building music technology
 img: assets/img/music/sing1.jpg
 importance: 2
 category: fun
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.

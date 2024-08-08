@@ -5,7 +5,7 @@ description: and Learning
 img: assets/img/teaching/IMG_1413.jpg
 importance: 2
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
