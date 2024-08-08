@@ -18,7 +18,7 @@ nav_order: 4
 </div>
 {% endif %}
 
-## GitHub user
+<!-- ## GitHub user
 
 {% if site.data.repositories.github_users %}
 
@@ -44,5 +44,5 @@ nav_order: 4
 
 {% endfor %}
 {% endif %}
-{% endif %}
+{% endif %} -->
 
