@@ -8,7 +8,6 @@ category: work
 related_publications: false
 ---
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/caving/img_2863.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -45,8 +44,7 @@ related_publications: false
 </div>    
 <div class="caption">
     Water infrustructure setup: Collection system from a nearby stream to pump up to the cabin, and a hot shower.
-</div>   
-
+</div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">

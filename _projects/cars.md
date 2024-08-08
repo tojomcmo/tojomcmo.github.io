@@ -8,4 +8,4 @@ category: work
 related_publications: false
 ---
 
-Much of my professional life post-school I've spent working on automotive systems. 
+Much of my professional life post-school I've spent working on automotive systems.

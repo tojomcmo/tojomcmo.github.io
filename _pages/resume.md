@@ -2,7 +2,7 @@
 layout: page
 title: resume
 permalink: /resume/
-description: 
+description:
 nav: true
 nav_order: 3
 horizontal: false
@@ -17,4 +17,3 @@ horizontal: false
     <p>If you are not redirected, <a href="../assets/pdf/resume.pdf">click here to view my resume</a>.</p>
 </body>
 </html>
-
