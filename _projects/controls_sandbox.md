@@ -33,7 +33,7 @@ Over the past year I've been developing a project for testing, comparing, and tr
     </div>
 </div>
 <div class="caption">
-    Direct collocation and iLQR tranjectory optimization algorithms applied to the double pendulum and cart-pole underactuated systems.
+    Direct collocation and iLQR tranjectory optimization algorithms applied to the double pendulum and cart-pole underactuated systems. 
 </div>
 
 <div class="row justify-content-sm-center">
