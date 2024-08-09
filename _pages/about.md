@@ -25,7 +25,7 @@ I love to engage with fun technical projects, music and performing, art projects
 <!-- Add your box link with photo and side-by-side text here -->
 <div class="clickable-box" style="border: 2px solid #000; width: 500px; display: flex; align-items: center; padding: 20px; margin: 20px auto;">
   <a href="/projects/" style="text-decoration: none; color: inherit; display: flex; align-items: center; width: 100%;">
-    <img src="{{ 'assets/img/chip_manifold/img_0098.jpg' }}" alt="Project Image" style="width: 25%; height: auto;">
+    <img src="{{ '../assets/img/chip_manifold/img_0098.jpg' }}" alt="Project Image" style="width: 25%; height: auto;">
     <div style="margin-left: 10px; display: flex; flex-direction: column; text-align: left; justify-content: center;">
       <h2>Projects</h2>
       <p>Link to a list of technical and artistic projects I've worked on</p>
