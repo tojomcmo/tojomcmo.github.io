@@ -3,7 +3,7 @@ layout: page
 title: Underwater Robotics
 description: Build history of ROVs
 img: assets/img/ROVs/glider1.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: false
 ---
