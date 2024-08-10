@@ -50,4 +50,24 @@ body.sticky-bottom-footer {
 * Projects
 *****************************************************************************/
 
+.gallery-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 10px;
+  padding: 20px;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s ease-in-out;
+}
+
+.gallery-item img:hover {
+  transform: scale(1.5);
+}
+
 // TODO: redefine projects layout.

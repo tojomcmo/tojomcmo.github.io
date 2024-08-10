@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-description">{{ page.description }}</p>
+  </header>
+  <article>
+    {{ content }}
+  <article/>  
+</div>
+
+<div class="gallery-container">
+  {% assign gallery_path = page.gallery_path %}
+  {% for file in site.static_files %}
+    {% if file.path contains gallery_path %}
+      <div class="gallery-item">
+        {% include figure.liquid path=file.path class="img-fluid rounded z-depth-1" title="gallery image" %}
+      </div>  
+    {% endif %}
+  {% endfor %}
+</div>
+
+
+
