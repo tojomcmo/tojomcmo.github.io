@@ -10,10 +10,10 @@ horizontal: false
 
 <html>
 <head>
-    <meta http-equiv="refresh" content="0; url=../assets/pdf/resume.pdf" />
-    <link rel="canonical" href="../assets/pdf/resume.pdf" />
+    <meta http-equiv="refresh" content="0; url=../assets/pdf/resume_one_page.pdf" />
+    <link rel="canonical" href="../assets/pdf/resume_one_page.pdf" />
 </head>
 <body>
-    <p>If you are not redirected, <a href="../assets/pdf/resume.pdf">click here to view my resume</a>.</p>
+    <p>If you are not redirected, <a href="../assets/pdf/resume_one_page.pdf">click here to view my resume</a>.</p>
 </body>
 </html>
