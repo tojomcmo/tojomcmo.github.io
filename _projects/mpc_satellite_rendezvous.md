@@ -19,3 +19,5 @@ During Gradschool, I worked on a project for CMU-16.748 (Underactuated Robotics)
 <div class="caption">
     Direct collocation solution for end-effector rendezvous of a 2-dimensional 3-link floating-base manipulator with a rotating body
 </div>
+
+Click <a href="/assets/pdf/tm_dkv_16748_paper.pdf"> here </a> to see the final project report
