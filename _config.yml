@@ -248,6 +248,11 @@ exclude:
   - readme_preview/
   - vendor
   - _pages/cv.md
+  - _projects/teaching.md
+  - _projects/ottr.md
+  - _projects/powered_cart.md
+  - _projects/powered_surfboard.md
+  - _projects/riskboard.md
 keep_files:
   - CNAME
   - .nojekyll

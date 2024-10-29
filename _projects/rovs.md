@@ -14,7 +14,7 @@ Before migrating to the automotive and control spaces, much of my engineering wo
 
 As a member of the <a href="https://edgerton.mit.edu/mit-students/clubs-teams/marine-robotics-team">Marine Robotics Team</a>, I helped develop mechanical structures and design architectures for multiple underwater remotely operated vehicles (ROVs) and autonomous underwater vehicles (AUVs). The video below shows a successful untethered dive of a piston-driven glider developed by the team off the coast of Ketchikan Alaska.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G1qj0A17uUk?si=jVG-DqcHOiGVKhyF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/G1qj0A17uUk?si=jVG-DqcHOiGVKhyF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Deploying prototype technology in remote environments is always an adventure. No matter how you prepare, something will go wrong in an unexpected way, or a problem will crop up that you didn't contemplate, but seems obvious on scene. Case in point: you have a 50 lb water sausage full of electronics. How are you supposed to deploy it from a boat when you're 6ft off the water? Apparently nose-first.
 
